@@ -166,7 +166,7 @@ MotherSphere@Colony $ neofetch
 <br>
 <h1 align="center"> My contributions game 🐍🎮</h1>
 <p align = "justify">
-        I am 10000% a weeb who loves anime and talks about it all the time !
+        {INSERT NEXUS MOD CONTRIBUTIONS} (MAIS JE SAIS PAS ENCORE COMMENT LE FAIRE)
         <br>
     </p>
 <br>
