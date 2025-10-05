@@ -77,7 +77,7 @@ MotherSphere@Colony $ neofetch
 ╚═►Headset : Roccat Kulo
 
 ```
-<b>{INSERT SPOTIFY (currently playing)}</b>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
