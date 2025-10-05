@@ -19,7 +19,6 @@ MotherSphere@Colony $ neofetch
 <!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
 <div>
   <img src="img/StellarBlade_eve.webp" width="200" align="left" style="margin-right:20px;">
-  <br clear="left">  <!-- forces the next element below the left-floated image -->
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
