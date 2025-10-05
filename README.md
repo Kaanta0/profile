@@ -36,11 +36,10 @@ MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 ╔══════════════════════════════════════════════╗
-║
 ║ PLAYER CARD
 ║
 ╠► Name : Lin Ha Zahard
-╠► Âge : 27*
+╠► Age : 27*
 ╠► Nationality : Belgian
 ╠► Language : French, English
 ╠► Team : Empire de Niraw
@@ -92,7 +91,7 @@ MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
         <a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM">
             <img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left">
         </a>
-        <b>奏(かなで)CV:高橋李依とCV:雨宮天<br>🎵ふたりはいつもどんな時もつながっていける。🎵</b>
+        <b>“It Began With Me, I Am The Source Of It All”</b>
     </p>
     <br>
     <br>
