@@ -127,10 +127,7 @@ MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
 </div>
 <div align = "center">
     <p align = "justify">
-        I worked using Jupyter Notebook for data analysis and AI focusing on social networks applying graphs theory. Nowdays, I focus on mobile develoment as Kotlin and Swift, also I get some badge about CCNA so I love cyber security.
-        So I do my best in every specialtation area. My programming languages are Swift, C/C++, Python, Kotlin, Shell Script, and 
-        little bit of CSS and Java Script. In other hand, My knowledge languages are Spanish (Native), English (B2 ~ C1), French (A2),
-        German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. 
+        I am 10000% a weeb who loves anime and talks about it all the time !
         <br>
     </p>
     <p align = "center">
@@ -142,19 +139,6 @@ MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
 <br>
 <br>
 <br>
-
-<div>
-    <h2 align = "center"> 🏆 My Badges </h2>
-</div>
-<div align="center">
-    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
-    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-switching-routing-and-wireless-essentials.1.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/introduction-to-cybersecurity.png" height="120px" width="120px"/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tillend1x100.png" alt="Your Image Badge" />
-</div>
 <br>
 <br>
 <br>
