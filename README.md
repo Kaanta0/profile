@@ -3,7 +3,7 @@
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
     </a>
     <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=mothersphere&style=for-the-badge&color=1C8C8C">
         <a href="https://t.me/yoshimakayaba">
             <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
@@ -136,34 +136,34 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <div> 
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
+            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mothersphere&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
         </a>
         <a href="https://github-readme-streak-stats.herokuapp.com">
-            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
+            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mothersphere&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
         </a><!--change language to japanese locale=jp-->
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
+            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mothersphere&theme=radical&row=4&column=4">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothersphere&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
         </a>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
+            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=mothersphere&theme=redical">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mothersphere&theme=2077">
     </p>
 </div>
 <br>
 <br>
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/mothersphere/mothersphere/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mothersphere/mothersphere/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a href="https://github.com/JohnKun136NVCP" target="_blank">
+    <a href="https://github.com/mothersphere" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
     </a>
     <a href="https://twitter.com/JohnWilliamBn" target="_blank">
