@@ -20,7 +20,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
+MotherSphere@Colony $ neofetch
 ```
 
 <img align="left" src="img/re-zero/10b.webp" width="279px"/>
