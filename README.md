@@ -20,7 +20,7 @@ MotherSphere@Colony $ neofetch
 <table>
   <tr>
     <!-- LEFT: images stacked vertically -->
-    <td valign="top" width="400" align="center">
+    <td valign="top" width="1000" align="center">
       <img src="img/StellarBlade_eve.webp" width="100%" alt="Stellar Blade Eve"><br><br>
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img 
