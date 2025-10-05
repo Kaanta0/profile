@@ -39,11 +39,10 @@ MotherSphere@Colony $ neofetch
 ║
 ╠► Name : Lin Ha Zahard
 ╠► Age : 27*
-╠► Nationality : Belgian
+╠► Nationality : Belgian with a sprinkle of chinese
 ╠► Language : French, English
-╠► Team : Empire de Niraw
-╠► Favourite Game : Mount And Blades Warband, Rust, Assassin's creed, CS:GO
-╠► Favourite Mod : All
+╠► Favourite Games : Stellar Blade, Mount And Blades Warband, Rust, Assassin's creed, CS:GO
+╠► Favourite Mods : All
 ╠► Skype : ✔
 ╠► Mumble : ✗
 ╠► TeamSpeak : ✗
