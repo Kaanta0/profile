@@ -17,22 +17,18 @@
 MotherSphere@Colony $ neofetch
 ```
 <!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <div>
-        <img src="img/StellarBlade_eve.webp" width="450" alt="Stellar Blade Eve"><br><br>
-        <a href="https://github.com/kittinan/spotify-github-profile">
-          <img 
-            src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-            alt="spotify-github-profile"
-            width="450" height="300">
-        </a>
-      </div>
-    </td>
+<div>
+  <img src="img/StellarBlade_eve.webp" width="500" align="left" style="margin-right:20px;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+      alt="spotify-github-profile"
+      width="500" align="left" style="margin-right:20px;">
+  </a>
 
-<td valign="top">
-<pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+  <pre><code class="language-csharp">
+...      
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░░░░░
@@ -81,10 +77,11 @@ MotherSphere@Colony $ neofetch
 ╠═►KeyBoard : Corsair Strafe MX Red Switch
 ╠►Mouse : Mionix Castor Gaming Mouse
 ╠►Second Mouse : Sky digital Nmouse 4K Real 4K
-╚►Headset : Roccat Kulo</code></pre>
-    </td>
-  </tr>
-</table>
+╚►Headset : Roccat Kulo
+...
+</code>
+</pre>
+</div>
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
