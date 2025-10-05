@@ -29,6 +29,7 @@ MotherSphere@Colony $ neofetch
         width="200">
     </a>
   </p>
+</div>
 
 <pre><code class="language-csharp">
 ...      
