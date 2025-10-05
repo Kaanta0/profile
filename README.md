@@ -4,7 +4,6 @@
     </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=mothersphere&style=for-the-badge&color=1C8C8C">
-            <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
     </p>
 </div>
@@ -60,7 +59,7 @@ MotherSphere@Colony $ neofetch
 ╠═►GC : ASUS GeForce RTX 2080 SUPER O8G
 ╠═►Monitor : MSI 31.5" LED - Optix MAG321CQR / Acer Predator GN246HLBbid
 ╠═►KeyBoard : Razer Huntsman Elite
-╠═►Mousse : Razer Viper 8k
+╠═►Mouse : Razer Viper 8k
 ╚═►headset : Razer Kraken Tournament
 
 ▂▃▄▅▆▇█▓▒░ PC Components (Second)░▒▓█▇▆▅▄▃▂
