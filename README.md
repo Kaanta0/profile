@@ -27,7 +27,7 @@ MotherSphere@Colony $ neofetch
       width="200" align="left" style="margin-right:20px;">
   </a>
 
-  <pre><code class="language-csharp">
+<pre><code class="language-csharp">
 ...      
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
