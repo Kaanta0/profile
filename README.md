@@ -19,19 +19,19 @@ MotherSphere@Colony $ neofetch
 <!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
 <table>
   <tr>
-    <!-- LEFT: images stacked vertically -->
-    <td valign="top" width="1000" align="center">
-      <img src="img/StellarBlade_eve.webp" width="100%" alt="Stellar Blade Eve"><br><br>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img 
-          src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-          alt="spotify-github-profile"
-          width="100%" height="auto">
-      </a>
+    <td valign="top" align="center">
+      <div>
+        <img src="img/StellarBlade_eve.webp" width="450" alt="Stellar Blade Eve"><br><br>
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img 
+            src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+            alt="spotify-github-profile"
+            width="450" height="300">
+        </a>
+      </div>
     </td>
 
-<!-- RIGHT: C# block -->
-<td valign="top">
+    <td valign="top">
 <pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
