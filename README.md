@@ -14,20 +14,6 @@
 </div>
 <br>
 
-
-<div align="center">
-    <img src="img/StellarBlade_eve.webp" width="279px"/>
-    <br>
-    <br>
-    <!-- 🎵 Spotify Profile Embed -->
-    <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile width="250px">
-    </a>
-</div>
-<br>
-
-
-
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
