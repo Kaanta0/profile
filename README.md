@@ -82,8 +82,8 @@ MotherSphere@Colony $ neofetch
 ╠►Mouse : Mionix Castor Gaming Mouse
 ╠►Second Mouse : Sky digital Nmouse 4K Real 4K
 ╚►Headset : Roccat Kulo</code></pre>
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
