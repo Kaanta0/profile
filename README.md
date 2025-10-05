@@ -79,8 +79,9 @@ MotherSphere@Colony $ neofetch
 ╚═►Headset : Roccat Kulo
 
 ```
+<b>{INSERT SPOTIFY (currently playing)}</b>
 
-
+<b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
     <br>
     <br>
