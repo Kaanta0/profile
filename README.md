@@ -9,6 +9,11 @@
 </div>
 
 <br>
+<br> <div align="center">
+    <img src="https://media1.tenor.com/m/dMFZ3Ymy9PIAAAAC/stellar-blade-eve.gif" width="300px">
+</div>
+<br>
+
 
 <div align="center">
     <img src="img/StellarBlade_eve.webp" width="279px"/>
