@@ -30,9 +30,9 @@ MotherSphere@Colony $ neofetch
       </a>
     </td>
 
-    <!-- RIGHT: C# block -->
-    <td valign="top">
-      <pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+<!-- RIGHT: C# block -->
+<td valign="top">
+    <pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░░░░░
@@ -82,10 +82,9 @@ MotherSphere@Colony $ neofetch
 ╠►Mouse : Mionix Castor Gaming Mouse
 ╠►Second Mouse : Sky digital Nmouse 4K Real 4K
 ╚►Headset : Roccat Kulo</code></pre>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
