@@ -18,19 +18,15 @@ MotherSphere@Colony $ neofetch
 ```
 <!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
 <div align="left">
-  <p>
-    <img src="img/StellarBlade_eve.webp" width="200" alt="Stellar Blade Eve">
-  </p>
-  <p>
+  <div>
+    <img src="img/StellarBlade_eve.webp" width="200" style="display:block; margin-bottom:5px;">
     <a href="https://github.com/kittinan/spotify-github-profile">
       <img 
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-        alt="spotify-github-profile"
-        width="200">
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+        width="200" style="display:block;">
     </a>
-  </p>
+  </div>
 </div>
-
 <pre><code class="language-csharp">
 ...      
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
