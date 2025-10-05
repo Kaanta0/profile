@@ -19,14 +19,14 @@ MotherSphere@Colony $ neofetch
 <!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
 <table>
   <tr>
-    <!-- LEFT: images stacked vertically, locked column width -->
+    <!-- LEFT: images stacked vertically -->
     <td valign="top" width="600" align="center">
-      <img src="img/StellarBlade_eve.webp" width="500" alt="Stellar Blade Eve"><br><br>
+      <img src="img/StellarBlade_eve.webp" width="100%" alt="Stellar Blade Eve"><br><br>
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img 
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
           alt="spotify-github-profile"
-          width="500" height="350">
+          width="100%" height="auto">
       </a>
     </td>
 
