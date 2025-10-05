@@ -11,10 +11,17 @@
 <br>
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/dMFZ3Ymy9PIAAAAC/stellar-blade-eve.gif" width="300px">
+    <img src="img/StellarBlade_eve.webp" width="279px"/>
+    <br>
+    <br>
+    <!-- 🎵 Spotify Profile Embed -->
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+    </a>
 </div>
-
 <br>
+
+
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
