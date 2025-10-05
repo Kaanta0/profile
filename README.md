@@ -21,7 +21,7 @@ MotherSphere@Colony $ neofetch
   <tr>
     <!-- LEFT: images stacked vertically -->
     <td valign="top" width="400" align="center">
-      <img src="img/StellarBlade_eve.webp" width="200%" alt="Stellar Blade Eve"><br><br>
+      <img src="img/StellarBlade_eve.webp" width="100%" alt="Stellar Blade Eve"><br><br>
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img 
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
