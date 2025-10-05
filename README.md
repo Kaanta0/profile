@@ -21,36 +21,64 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-john@keima: ~/my_readme (main⚡)$ neofetch
+MotherSphere@Colony: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="img/re-zero/10b.webp" width="279px"/>
 
 ```csharp
-My Profile ver. 5.0.1: クルシュ・カルステンは、美と戦いを一体化させるヴァルキリーである.「クルシュ・カルステンは、びとたたかいをいったいかさせるヴァルキリーである」
-----------------------------------------------------------------------------------------
-Username: Keima Tatsuya「桂馬達也」
-WhoamI: Physicist. Also musician (more or less)
-OS: Garuda Linux 'Raptor' with Hyprland
-Shell: zsh 5.9
-Telegram: @yoshimakayaba.
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
-Pronouns: He/Him
-Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin, Haskell
-Hobbyes: Python, C, C++, Go.
-Learning: Swift, Js, React, Haskell
-FavouriteSong: Sweeter than wine by NCW
-FavouriteEquation: Schrödinger equation and Euler's formula
-Hobbies: Gaming,watching anime,coding while I am listening music
-Languages.A1: 中文, русский, Deutsch, français
-Languages.B1: 日本語
-Languages.B2: English (well sometimes)
-My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
+░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░░░░░
+░░░░░░░░░░░░░░▀▀▀▀▀░▀▀▀▀░▀▀▀▀░▀▀▀▀░▀▀▀▀░▀░▀░▀░▀▀▀▀░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+
+╔══════════════════════════════════════════════╗
+║
+║ PLAYER CARD
+║
+╠► Name : Lin Ha Zahard
+╠► Âge : 27*
+╠► Nationality : Belgian
+╠► Language : French, English
+╠► Team : Empire de Niraw
+╠► Favourite Game : Mount And Blades Warband, Rust, Assassin's creed, CS:GO
+╠► Favourite Mod : All
+╠► Skype : ✔
+╠► Mumble : ✗
+╠► TeamSpeak : ✗
+╠► Discord : ✔
+╠► Player : [PC]✓[XBOX]✓ [PS4] ✓
+╚══════════════════════════════════════════════╝
+
+▂▃▄▅▆▇█▓▒░ PC Components ░▒▓█▇▆▅▄▃▂
+
+╔═►OS : Windows 11 - 64 Bits
+╠═►MotherBoard : Asus ROG Crosshair VIII Formula
+╠═►Processor : Ryzen 9 3900X - 3.8Ghz
+╠═►RAM : Corsair Dominator Platinum RGB 32Go
+╠═►Hard Disque : Samsung SSD 970 EVO M.2 PCIe NVMe 1 To
+╠═►GC : ASUS GeForce RTX 2080 SUPER O8G
+╠═►Monitor : MSI 31.5" LED - Optix MAG321CQR / Acer Predator GN246HLBbid
+╠═►KeyBoard : Razer Huntsman Elite
+╠═►Mousse : Razer Viper 8k
+╚═►headset : Razer Kraken Tournament
+
+▂▃▄▅▆▇█▓▒░ PC Components (Second)░▒▓█▇▆▅▄▃▂
+
+╔═►OS : Windows 7 - 2017
+╠═►MotherBoard : Sabertooth 990FX R3.0
+╠═►Processor : FX-9590 Black Edition - 4.74Ghz (new edition)
+╠═►RAM : HyperX Fury - HX318C10FBK2 - 8x2 (16go)
+╠═►SSD : SSD 120 go Samsung
+╠═►Hard Disque : Samsung 2T
+╠═►GC : Asus ROG STRIX-GTX1060-O6G-GAMING
+╠═►KeyBoard : Corsair Strafe MX Red Switch
+╠═►Mouse : Mionix Castor Gaming Mouse
+╠═►Second Mouse : Sky digital Nmouse 4K Real 4K
+╚═►Headset : Roccat Kulo
 
 ```
 
