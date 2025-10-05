@@ -16,26 +16,23 @@
 ```zsh
 MotherSphere@Colony $ neofetch
 ```
-<div style="display: flex; align-items: flex-start;">
+<!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
+<table>
+  <tr>
+    <!-- LEFT: images stacked vertically -->
+    <td valign="top">
+      <img src="img/StellarBlade_eve.webp" width="279" alt="Stellar Blade Eve"><br>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img 
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+          alt="spotify-github-profile"
+          width="200" height="350">
+      </a>
+    </td>
 
-  <!-- Left side: images stacked vertically -->
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="img/StellarBlade_eve.webp" width="279px" style="margin-bottom: 10px;"/>
-
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img 
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-        alt="spotify-github-profile"
-        width="200"
-        height="350">
-    </a>
-  </div>
-
-  <!-- Right side: C# text -->
-  <div>
-  
-```csharp
-●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+    <!-- RIGHT: C# block -->
+    <td valign="top">
+      <pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░░░░░
@@ -82,12 +79,13 @@ MotherSphere@Colony $ neofetch
 ╠═►Hard Disque : Samsung 2T
 ╠═►GC : Asus ROG STRIX-GTX1060-O6G-GAMING
 ╠═►KeyBoard : Corsair Strafe MX Red Switch
-╠═►Mouse : Mionix Castor Gaming Mouse
-╠═►Second Mouse : Sky digital Nmouse 4K Real 4K
-╚═►Headset : Roccat Kulo
+╠►Mouse : Mionix Castor Gaming Mouse
+╠►Second Mouse : Sky digital Nmouse 4K Real 4K
+╚►Headset : Roccat Kulo</code></pre>
+    </td>
+  </tr>
+</table>
 
-
-```
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
