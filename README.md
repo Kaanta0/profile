@@ -86,7 +86,8 @@ MotherSphere@Colony $ neofetch
 ╠═►Second Mouse : Sky digital Nmouse 4K Real 4K
 ╚═►Headset : Roccat Kulo
 
-</div> </div> ```
+
+```
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
