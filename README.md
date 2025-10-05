@@ -16,21 +16,22 @@
 ```zsh
 MotherSphere@Colony $ neofetch
 ```
-<!-- Two-column layout (GitHub-safe: uses a table, no inline CSS needed) -->
-<div>
-  <img src="img/StellarBlade_eve.webp" width="200" align="left" style="margin-right:20px;">
-    <br clear="left">  <!-- forces the next element below the left-floated image -->
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-      alt="spotify-github-profile"
-      width="200" align="left" style="margin-right:20px;">
-  </a>
+<table>
+  <tr>
+    <!-- LEFT column: images stacked vertically -->
+    <td valign="top" align="center">
+      <img src="img/StellarBlade_eve.webp" width="250" alt="Stellar Blade Eve"><br><br>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1cg9ljpxi05octh0swt44cv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+          alt="spotify-github-profile"
+          width="250" height="180">
+      </a>
+    </td>
 
-
-<pre><code class="language-csharp">
-...      
-●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+    <!-- RIGHT column: C# block -->
+    <td valign="top">
+<pre><code class="language-csharp">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░░░░░
@@ -53,37 +54,10 @@ MotherSphere@Colony $ neofetch
 ╠► Discord : ✔
 ╠► Player : [PC]✓[XBOX]✓ [PS4] ✓
 ╚══════════════════════════════════════════════╝
-
-▂▃▄▅▆▇█▓▒░ PC Components ░▒▓█▇▆▅▄▃▂
-
-╔═►OS : Windows 11 - 64 Bits
-╠═►MotherBoard : Asus ROG Crosshair VIII Formula
-╠═►Processor : Ryzen 9 3900X - 3.8Ghz
-╠═►RAM : Corsair Dominator Platinum RGB 32Go
-╠═►Hard Disque : Samsung SSD 970 EVO M.2 PCIe NVMe 1 To
-╠═►GC : ASUS GeForce RTX 2080 SUPER O8G
-╠═►Monitor : MSI 31.5" LED - Optix MAG321CQR / Acer Predator GN246HLBbid
-╠═►KeyBoard : Razer Huntsman Elite
-╠═►Mouse : Razer Viper 8k
-╚═►headset : Razer Kraken Tournament
-
-▂▃▄▅▆▇█▓▒░ PC Components (Second)░▒▓█▇▆▅▄▃▂
-
-╔═►OS : Windows 7 - 2017
-╠═►MotherBoard : Sabertooth 990FX R3.0
-╠═►Processor : FX-9590 Black Edition - 4.74Ghz (new edition)
-╠═►RAM : HyperX Fury - HX318C10FBK2 - 8x2 (16go)
-╠═►SSD : SSD 120 go Samsung
-╠═►Hard Disque : Samsung 2T
-╠═►GC : Asus ROG STRIX-GTX1060-O6G-GAMING
-╠═►KeyBoard : Corsair Strafe MX Red Switch
-╠►Mouse : Mionix Castor Gaming Mouse
-╠►Second Mouse : Sky digital Nmouse 4K Real 4K
-╚►Headset : Roccat Kulo
-...
-</code>
-</pre>
-</div>
+</code></pre>
+    </td>
+  </tr>
+</table>
 
 <b>{INSERT DISCORD ACTIVITY}”</b>
 <div>
