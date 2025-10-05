@@ -23,7 +23,7 @@
 MotherSphere@Colony $ neofetch
 ```
 
-<img align="left" src="img/re-zero/10b.webp" width="279px"/>
+<img align="left" src="img/StellarBlade_eve.webp" width="279px"/>
 
 ```csharp
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
