@@ -165,9 +165,10 @@ MotherSphere@Colony $ neofetch
 <br>
 <br>
 <h1 align="center"> My contributions game 🐍🎮</h1>
-
-![](https://raw.githubusercontent.com/mothersphere/mothersphere/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mothersphere/mothersphere/output/github-contribution-grid-snake.svggh-light-mode-only)
+<p align = "justify">
+        I am 10000% a weeb who loves anime and talks about it all the time !
+        <br>
+    </p>
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
